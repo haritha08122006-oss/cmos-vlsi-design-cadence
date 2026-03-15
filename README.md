@@ -1,1 +1,1 @@
-# cmos-inverter-cadence
+cmos vlsi design cadence
